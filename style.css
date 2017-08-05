@@ -1,0 +1,69 @@
+body {
+	background-color: #eeeeee;
+}
+
+p {
+	float: left;
+	margin-left: 275px;
+	font-size: 24px;
+}
+
+#shows-form {
+	float: right;
+	width: 30%;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+#shows-input {
+	width: 350px;
+	padding: 5px;
+	margin: 10px 0 10px 0;
+	font-size: 14px;
+	border: 2px solid lightgrey; 
+}
+
+#buttons,
+#addShow {
+	padding: 5px;
+	border-radius: 5px;
+	font-size: 16px;
+	color: white;
+}
+
+#buttons:hover {
+	opacity: .8;
+}
+
+#addShow:hover {
+	opacity: .8;
+}
+
+#buttons {
+	background-color: #444;
+	margin: 10px 5px 10px 5px;
+}
+
+#addShow {
+	background-color: #EA7D10;
+}
+
+#shows-view {
+	display: inline-block;
+	width: 800px;
+}
+
+#gifs,
+#ratings {
+	margin-left: 150px;
+}
+
+#gifs {
+	width: 500px;
+}
+
+#ratings {
+	font-size: 18px;
+	font-weight: bold;
+}
